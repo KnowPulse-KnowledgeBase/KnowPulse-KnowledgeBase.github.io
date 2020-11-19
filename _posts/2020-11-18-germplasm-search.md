@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to search for germplasm and view details behind"
+title:  "How to search for germplasm to find pedigree and phenotypic data"
 date:   2020-11-18 12:39:13 -0600
 site-url: https://knowpulse-knowledgebase.github.io/Germplasm-Search/
 repo-url: https://github.com/KnowPulse-KnowledgeBase/Germplasm-Search
