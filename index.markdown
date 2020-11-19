@@ -13,6 +13,10 @@ layout: home
 
 <hr>
 
+<iframe frameborder="0" width="560" height="315" src="https://biteable.com/watch/embed/knowpulse-knowledgebase-intro-2729700" allowfullscreen="true" allow="autoplay"></iframe> 
+
+<hr>
+
 <p id="who">
   <strong>Who:</strong>
   These tutorials are aimed at pulse crop graduate students and researchers.
