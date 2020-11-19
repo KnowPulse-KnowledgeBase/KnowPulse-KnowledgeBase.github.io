@@ -13,7 +13,7 @@ layout: home
 
 <hr>
 
-<iframe frameborder="0" width="560" height="315" src="https://biteable.com/watch/embed/knowpulse-knowledgebase-intro-2729700" allowfullscreen="true" allow="autoplay"></iframe> 
+<iframe frameborder="0" width="560" height="315" src="https://biteable.com/watch/embed/knowpulse-knowledgebase-intro-2729700" allowfullscreen="true" allow="autoplay" style="margin-left:auto; margin-right:auto;"></iframe> 
 
 <hr>
 
