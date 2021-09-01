@@ -13,7 +13,7 @@ layout: home
 
 <hr>
 
-<iframe frameborder="0" width="370" height="208" src="https://biteable.com/watch/embed/knowpulse-knowledgebase-intro-2729700" allowfullscreen="true" allow="autoplay" style="margin-left:185px"></iframe> 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/503668210?h=1a7cf4c5f8" width="370" height="208" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 
